@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+img2pdf
+Pillow
+requests
+flask
